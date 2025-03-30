@@ -1,0 +1,14 @@
+Country,Industry,Country Export Value,Tariff Percentage
+Canada,General Imports,"Significant trading partner - hundreds of billions USD",25%
+Canada,Energy Resources,"Major supplier to US",10%
+Canada,Steel,"Significant supplier to US",25%
+Canada,Aluminum,"Significant supplier to US",25%
+Mexico,General Imports,"Significant trading partner - hundreds of billions USD",25%
+China,General Imports,"Major trading partner - over $500 billion USD",60%
+China,Steel,Significant,25%
+China,Aluminum,Significant,25%
+European Union,General Imports,"Major trading partner - hundreds of billions USD",25%
+Global,Automotive,"Major industry - hundreds of billions USD",25%
+Global,Steel,"Essential industrial input",25%
+Global,Aluminum,"Essential industrial input",10%
+Rest of World,General Imports,Various,20%
